@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2025-06-14",
-  "downloadUrl": "https://github.com/SEU_USUARIO/vibe-karaoke/releases/latest",
-  "notes": "Versão inicial",
+  "version": "1.1.0",
+  "releaseDate": "2025-06-15",
+  "downloadUrl": "https://github.com/estampavibeoficial-ai/vibeoke/releases/latest",
+  "notes": "App Android para controle de fila via QR Code. Escaneie o QR Code na tela do VibeOke com o app e adicione musicas na fila pelo celular.",
   "mandatory": false
 }
